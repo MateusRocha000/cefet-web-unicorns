@@ -1,7 +1,7 @@
 #cabecalho{
 	margin: 0;
 	background-color: #6175f0;
-	padding: 20px 0 0 34px;
+	padding: 20px 0 13px 34px;
 	color: white;
 }
 
@@ -23,14 +23,63 @@ img#true{
 	padding: 0 13px 0 0;
 }
 
+.verdade{
+	font-size: 24px;
+	font-family: serif;
+	color: black;
+}
+
+.arial{
+	font-size: 14px;
+	font-family: sans-serif;
+	color: black;
+}
 
 #hoje{
 	float: right;
-	text-align: right;
+	text-align: center;
 	background-color: #f8cef7;
 	width: 450px;
 	border: 1px solid #ff56fb;
-	padding: 0 25px 0 0;
+	padding: 20px 35px 30px 35px;
 	margin: 25px;
+}
 
+h2#hoje{
+	margin-top: 20px;
+	font-size: 24px;
+	color: black;
+	font-family: serif;
+}
+
+h3#hoje{
+	font-family: serif;
+	font-size: 18px;
+}
+
+img#imagem{
+	width: 112px;
+	height: 112px;
+}
+
+#musica{
+	text-align: left;
+	padding-left: 12px;
+}
+
+.title{
+	font-size: 24px;
+	font-family: serif;
+	color: black;
+}
+
+#recuado{
+	padding-left: 34px;
+}
+
+#destacado{
+	
+	background-color: #c4caf3;
+	padding: 1px 0 1px 0;
+	color: #004a79;
 }
